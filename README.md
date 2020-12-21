@@ -5,3 +5,5 @@ permission extension for the rp-radio for mumble-voip
 
 permissions can be changed via the cfg
 channels will be automatically updated on perm change
+
+if error occurs on load try clearing cache 
